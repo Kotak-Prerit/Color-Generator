@@ -1,3 +1,5 @@
+function func(){loading.style.display = "none";}
+
 const capturecolor = () => {
 
     const randomNum = Math.floor(Math.random() * 16777215);
